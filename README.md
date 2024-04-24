@@ -1,5 +1,7 @@
 # **Gesture Recognition for Human-Computer Interaction**
 
+## Prokect Porposal : https://docs.google.com/document/d/1w41utBa_9MA26_uzkOUYU5ov2S5SvQlGjjbMTALi3tI/edit
+
 ## **Contributors**
 - Yi-Cheng Chung
 - Yu-Chin (Alyssa) Chen
