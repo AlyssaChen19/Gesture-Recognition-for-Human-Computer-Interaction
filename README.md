@@ -1,7 +1,5 @@
 # **Gesture Recognition for Human-Computer Interaction**
 
-## Prokect Porposal : https://docs.google.com/document/d/1w41utBa_9MA26_uzkOUYU5ov2S5SvQlGjjbMTALi3tI/edit
-
 ## **Contributors**
 - Yi-Cheng Chung
 - Yu-Chin (Alyssa) Chen
@@ -25,6 +23,8 @@ In our pursuit of accuracy enhancement, we progressively reduced the frame rate 
 
 
 Following the data preprocessing stage, we proceeded with the utilization of Convolutional Neural Networks (CNNs) for our analysis. CNNs are widely acknowledged for their efficacy in image recognition tasks, making them a natural choice for our objective of gesture recognition. Specifically, we leveraged a variant of CNN known as Convolutional Recurrent Neural Networks (CRNNs) to account for the temporal aspect inherent in video data. By integrating convolutional layers for spatial feature extraction and recurrent layers for capturing temporal dependencies, CRNNs offer a comprehensive solution suited to our task. 
+
+## Project Porposal : https://docs.google.com/document/d/1w41utBa_9MA26_uzkOUYU5ov2S5SvQlGjjbMTALi3tI/edit
 
 
 To augment the data and enhance model robustness, we applied techniques such as rotation, zoom, and horizontal flip. Additionally, we conducted extensive hyperparameter tuning, focusing on dropout layers, activation functions (ReLU / Leaky ReLU), batch size, and learning rate. Employing grid search methodology, we systematically explored various parameter combinations to optimize the model's performance.
